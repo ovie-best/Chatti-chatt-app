@@ -1,0 +1,19 @@
+{
+  "name": "chatti-chat",
+  "version": "1.0.0",
+  "description": "This is a real time chat application created with ReactJs and NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ovie Nathaniel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
